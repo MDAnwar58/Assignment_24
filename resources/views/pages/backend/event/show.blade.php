@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Event Create')
+@section('title', 'Event Show')
 
 @section('css')
 
